@@ -43,15 +43,7 @@
 
 ###
 
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu81003/vishnu81003/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnu81003/vishnu81003/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishnu81003/vishnu81003/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vishnu-s-891376212/" target="_blank">
@@ -67,8 +59,4 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnu81003/vishnu81003/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnu81003/vishnu81003/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishnu81003/vishnu81003/output/pacman-contribution-graph.svg">
-</picture>
+
