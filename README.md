@@ -31,13 +31,11 @@
 ### 📊 Dev Stats  
 
 <p align="center">
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu81003&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu81003&radius=16&theme=react&area=true&hide_border=false" height="300" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu81003&radius=16&theme=react&area=true&hide_border=false" height="200" alt="activity graph" />
 </p>
 
 ---
@@ -56,7 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo"  />
 </div>
 
----
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
@@ -70,7 +67,6 @@
   <img src="https://skillicons.dev/icons?i=aws" height="35" alt="aws logo"  />
 </div>
 
----
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="35" alt="python logo"  />
@@ -82,7 +78,6 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="35" alt="tensorflow logo"  />
 </div>
 
----
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
