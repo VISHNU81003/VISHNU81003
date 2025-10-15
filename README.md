@@ -30,13 +30,18 @@
 
 ### 📊 Dev Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu81003&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</p>
+<div align="center">
 
-<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 70px; flex-wrap: wrap margin-bottom: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu81003&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu81003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  </div>
+
+  <br/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu81003&radius=16&theme=react&area=true&hide_border=false" height="200" alt="activity graph" />
-</p>
+
+</div>
 
 ---
 
