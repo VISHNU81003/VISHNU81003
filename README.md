@@ -1,62 +1,99 @@
-<h1 align="center">Hey 👋, I'm Vishnu S</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="android logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="flask logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=50&section=header&reversal=false&text=Hey%20%F0%9F%91%8B,%20I'm%20Vishnu%20S&fontSize=30&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vishnu81003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=vishnu81003&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### 👨‍💻 About Me  
 
-###
+- 💡 Developer with hands-on experience in **mobile app development**, **machine learning**, and **ERP solutions**.  
+- 🌾 Bridging **technology and agriculture** at **ICAR-CICR**, creating innovative tools for **crop research** and **pest management**.  
+- 📚 **Published researcher** passionate about applying AI for sustainable agriculture.  
+- 🐍 Skilled in **Python**, **Flutter**, and **cloud-native applications**.  
+- 🚀 Thrive on solving **real-world problems** with **scalable**, **impactful**, and **data-driven** technologies.  
 
+---
 
+### 🤝 Connect with Me  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vishnu-s-891376212/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-###
+---
 
-<br clear="both">
+### 📊 Dev Stats  
 
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu81003&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</p>
 
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu81003&radius=16&theme=react&area=true&hide_border=false" height="300" alt="activity graph" />
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="35" alt="android logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="35" alt="dart logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="35" alt="nginx logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="aws logo"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="35" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="35" alt="tensorflow logo"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=50&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&color=gradient" />
+</div>
