@@ -23,7 +23,10 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:vishnu81003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+
 </div>
 
 ---
@@ -32,9 +35,9 @@
 
 <div align="center">
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 70px; flex-wrap: wrap margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 70px; flex-wrap: wrap; margin-bottom: 20px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu81003&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu81003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu81003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   </div>
 
   <br/>
